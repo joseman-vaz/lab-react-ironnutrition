@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-search-bar,
+.custom-add-form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.food_container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+div.ant-list-item {
+  align-items: center;
+}
+
+div.ant-list-item {
+  justify-content: center;
+}
+
+Button {
+  margin: 5px;
+}
